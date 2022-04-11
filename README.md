@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-**[View Live Preview](https://benevolent-manatee-934ce4.netlify.app/)**
+**[View Live Preview](https://www.nevdev.io/)**
