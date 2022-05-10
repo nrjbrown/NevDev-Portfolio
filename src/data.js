@@ -36,14 +36,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "I am completely blown away by Nev's response time and his ability to translate the vision in our head to a living product. Just what we were looking for. I glad we hired pay over for website developer for this project and I am happy we choose NevDev.",
+      "I am completely blown away by Nev's response time and his ability to translate the vision we had in mind to an actual application. Just what we were looking for. I glad we hired NevDev and didn't have to over for a website developer on this project. I am happy we choose NevDev.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
   },
   {
     quote:
-      "Nev the Developer was easy to work with and took the time to listen. Our business had generated more lead because of the website Nev built for us. Thank you so much for your help. The very best! Thanks guys, keep up the good work!",
+      "Nev the Developer was easy to work with and took the time to listen. Our business had generated more leads because of the website Nev built for us. Thank you so much for your help. The very best! Thanks guys, keep up the good work!",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",
