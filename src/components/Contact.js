@@ -76,7 +76,7 @@ export default function Contact() {
           </LightSpeed>
 
           <p className="leading-relaxed mb-5">
-          I possess all the skills and experience that you’re looking for. I’m pretty confident that I am the ideal person for your next web development project! 
+          I possess all the skills and experience that you’re looking for. I’m confident that I am the ideal person for your next web development project! 
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

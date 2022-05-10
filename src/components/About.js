@@ -18,7 +18,7 @@ export default function About(){
           </h1>
           <Fade left>
           <p className="mb-8 leading-relaxed">
-          I am a web developer who is proficient in both back- end and front-end frameworks. My passion lies in learning about the latest technologies. I also completed numerous projects involving both front and back end development.
+          I am a web developer who is proficient in both web 2.0 and web 3.0 frameworks. My passion lies in learning about the latest technologies. I also completed numerous projects involving both front-end, back-end and web3 (NFTs) development. I am currently engaged in building a metaverse app (sample coming soon).  
           </p>
           </Fade>
           <div className="flex justify-center">
