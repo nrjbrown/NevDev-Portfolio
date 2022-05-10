@@ -36,7 +36,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "I am completely blown away by Nev's response time and his ability to translate the vision we had in mind to an actual application. Just what we were looking for. I glad we hired NevDev and didn't have to over for a website developer on this project. I am happy we choose NevDev.",
+      "I am completely blown away by Nev's response time and his ability to translate the vision we had in mind to an actual application. Just what we were looking for. I glad we hired NevDev and didn't have to overpay for a website developer on this project. I am happy we choose NevDev.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
